@@ -24,10 +24,6 @@
 
 - 💬 Ask me about **SQL Server, TOTVS RM Educacional, Canvas LTS**
 
-- 📫 How to reach me **maik.rs93@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/maikrodriguess/](https://www.linkedin.com/in/maikrodriguess/)
-
 - ⚡ Facts about me **I love inline skates**
 
 ##
