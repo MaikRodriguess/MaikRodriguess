@@ -44,7 +44,8 @@
 
 
 <!---
+https://github.com/Ileriayo/markdown-badges - Badges 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme#github-actions-
-https://dev.to/envoy_/150-badges-for-github-pnk
+https://dev.to/envoy_/150-badges-for-github-pnk - Badges 
 https://devicon.dev/
 --->
