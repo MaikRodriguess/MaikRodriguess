@@ -1,5 +1,7 @@
-<div>
-    </a> 
+
+<h1 align="center">  Olá, Maik aqui👋</h1>
+<h3 align="center">Sou Analista de sistemas com foco em suporte e estudante de dados. </h3>
+
  <a href="https://www.dio.me/users/maik_rs93">
     <img src="https://github.com/MaikRodriguess/MaikRodriguess/assets/69226200/1dd5285e-e747-426f-b102-75b2edb9a1ae" alt="Dio">
 </a> 
@@ -15,19 +17,11 @@
   
 
 
-##
-<h1 align="center">Hi 👋, i'm Maik</h1>
-<h3 align="center">I'm a systems analyst and I study data</h3>
 
-- 🌱 I'm currently perfecting myself in **data**
-
-- 💬 Ask me about **SQL Server, TOTVS RM Educacional, Canvas LTS**
-
-- ⚡ Facts about me **I love inline skates**
 
 ##
 
-<h3 align="left">Languages and Tools:</h3>
+## Ferramentas e linguagens:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
