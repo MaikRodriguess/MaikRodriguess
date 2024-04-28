@@ -1,6 +1,6 @@
 
-<h1 align="center">  Olá, Maik aqui👋</h1>
-<h3 align="center">Sou Analista de sistemas com foco em suporte e estudante de dados. </h3>
+<h4 align="center">"O grande objetivo da educação não é o saber, mas a ação." Herbert Spencer 🚀</h4>
+<p align="center">Sou Analista de sistemas com foco em suporte e estudante de dados. </p>
 
  <a href="https://www.dio.me/users/maik_rs93">
     <img src="https://github.com/MaikRodriguess/MaikRodriguess/assets/69226200/1dd5285e-e747-426f-b102-75b2edb9a1ae" alt="Dio">
@@ -43,15 +43,19 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
+
+
   
 ## 
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maikrodriguess&show_icons=true&theme=aura">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikrodriguess&hide_progress=false&theme=aura&layout=compact">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maikrodriguess&show_icons=true&theme=aura">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikrodriguess&hide_progress=false&theme=aura&layout=compact">
 </div>
 
 ##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maikrodriguess&repo=Projects&theme=aura)](https://github.com/MaikRodriguess/projects)
 
 
 
