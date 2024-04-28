@@ -54,8 +54,10 @@
 </div>
 
 ##
-
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maikrodriguess&repo=Projects&theme=aura)](https://github.com/MaikRodriguess/projects)
+--->
+
 
 
 
