@@ -1,7 +1,4 @@
 
-<h4 align="center">"O grande objetivo da educação não é o saber, mas a ação." Herbert Spencer 🚀</h4>
-<p align="center">Sou Analista de sistemas com foco em suporte e estudante de dados. </p>
-
  <a href="https://www.dio.me/users/maik_rs93">
     <img src="https://github.com/MaikRodriguess/MaikRodriguess/assets/69226200/1dd5285e-e747-426f-b102-75b2edb9a1ae" alt="Dio">
 </a> 
